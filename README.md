@@ -13,7 +13,7 @@ A python oriented telegram bot for generating temporary Emails Developed By [@ri
  
 ## Deployment
 
-[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/riz4d/TempMail-Bot)
+[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/taitan-x/TempMail)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/riz4d/TempMail-Bot)
 
